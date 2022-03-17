@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @inishantsaharan
+- 👋 Hi, I’m Nishant Saharan
 - 👀 I’m interested in web_developing and blockChain in Python
 - 🌱 I’m currently learning webDeveloping then blockChain
 - 💞️ I’m looking to collaborate on webDeveloping
