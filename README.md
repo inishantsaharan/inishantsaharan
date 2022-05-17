@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nishant Saharan
-- 👀 I’m interested in web_developing and blockChain in Python
-- 🌱 I’m currently learning webDeveloping then blockChain
-- 💞️ I’m looking to collaborate on webDeveloping
+- 👀 I’m interested in mobile and developing Reacr-native
+- 💞️ I’m looking to collaborate on react-native
 - 📫 Reach me @InishantSaharan on any social netWorking plateForm
 
 <!---
