@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nishant Saharan
-- 👀 I’m interested in mobile and developing Reacr-native
+- 👀 I’m interested in mobile and developing React-native
 - 💞️ I’m looking to collaborate on react-native
 - 📫 Reach me @InishantSaharan on any social netWorking plateForm
 
